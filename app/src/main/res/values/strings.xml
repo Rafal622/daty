@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">daty</string>
+    <string name="index_format">Pozycja: %1$d</string>
+</resources>
