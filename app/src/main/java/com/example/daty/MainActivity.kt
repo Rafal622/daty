@@ -46,14 +46,14 @@ class MainActivity : AppCompatActivity() {
     // **Step 3: Implement addItem() method to add new elements**
     fun addItem(data: Data) {
         dataList.add(data)
-        adapter.notifyDataSetChanged() // Notify adapter about data change
+       //  adapter.notifyDataSetChanged() // Notify adapter about data change
     }
 
     // **Step 5: Implement removeItem() method to remove elements**
     fun removeItem(data: Data) {
         if (dataList.contains(data)) {
             dataList.remove(data)
-            adapter.notifyDataSetChanged() // Notify adapter about data change
+        //    adapter.notifyDataSetChanged() // Notify adapter about data change
         }
     }
 
