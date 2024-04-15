@@ -1,5 +1,6 @@
 package com.example.daty
 
+import android.content.Context
 import java.io.FileOutputStream
 import android.os.Bundle
 import java.time.LocalDate
@@ -7,6 +8,7 @@ import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.csv.CsvWriter
 // import com.example.daty.Product
 
 class Data(val name: String, val description: String, val date: LocalDate)  // Add Data class definition (if needed)
@@ -25,7 +27,8 @@ class MainActivity : AppCompatActivity() {
         val csvWriter = CSVWriter(fileOutputStream)
         val header = listOf("Nazwa", "Opis", "Data")
         csvWriter.write(header)
-        csvWriter.write(dataList.map { it.toList() })
+        val dataListForCSV = dataList.map { data -> listOf(data.name, data.description, data.date.toString()) }
+        csvWriter.writeAll(dataListForCSV)
         csvWriter.close()
     }
 
