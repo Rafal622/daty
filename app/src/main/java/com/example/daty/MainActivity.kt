@@ -1,5 +1,6 @@
 package com.example.daty
 
+import java.io.FileOutputStream
 import android.os.Bundle
 import java.time.LocalDate
 import android.widget.Button
@@ -11,6 +12,22 @@ import androidx.recyclerview.widget.RecyclerView
 class Data(val name: String, val description: String, val date: LocalDate)  // Add Data class definition (if needed)
 
 class MainActivity : AppCompatActivity() {
+
+    private fun writeDataToCSV() {
+        val filename = "Daty.csv"
+        val fileOutputStream: FileOutputStream? = try {
+            openFileOutput(filename, Context.MODE_PRIVATE)
+        } catch (e: Exception) {
+            e.printStackTrace()
+            return
+        }
+
+        val csvWriter = CSVWriter(fileOutputStream)
+        val header = listOf("Nazwa", "Opis", "Data")
+        csvWriter.write(header)
+        csvWriter.write(dataList.map { it.toList() })
+        csvWriter.close()
+    }
 
     private var dataList: MutableList<Data> = mutableListOf()
 
@@ -34,6 +51,7 @@ class MainActivity : AppCompatActivity() {
             // Dodaj nowy element do listy
             val newData = Data("Nowy element", "Opis nowego elementu", LocalDate.now())
             addItem(newData)
+            writeDataToCSV() // Zapisz dane do pliku CSV
         }
 
         removeButton.setOnClickListener {
