@@ -3,6 +3,7 @@ plugins {
     alias(libs.plugins.jetbrainsKotlinAndroid)
 }
 
+
 android {
     namespace = "com.example.daty"
     compileSdk = 34
@@ -62,7 +63,7 @@ dependencies {
     implementation(libs.androidx.recyclerview)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.appcompat)
-    implementation(libs.opencsv)
+    implementation(libs.commons.csv)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

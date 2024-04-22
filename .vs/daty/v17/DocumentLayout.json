@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APK\\daty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APK\\daty\\app\\src\\main\\java\\com\\example\\daty\\MainActivity.kt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\daty\\MainActivity.kt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APK\\daty\\settings.gradle.kts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:settings.gradle.kts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APK\\daty\\app\\src\\main\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APK\\daty\\app\\src\\main\\res\\layout\\activity_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\res\\layout\\activity_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APK\\daty\\app\\build.gradle.kts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\build.gradle.kts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APK\\daty\\gradle\\libs.versions.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gradle\\libs.versions.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APK\\daty\\app\\src\\main\\res\\layout\\product_item.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\res\\layout\\product_item.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APK\\daty\\app\\src\\main\\java\\com\\example\\daty\\ProductAdapter.kt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\daty\\ProductAdapter.kt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APK\\daty\\app\\src\\main\\java\\com\\example\\daty\\Product.kt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\daty\\Product.kt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 205,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "settings.gradle.kts",
+              "DocumentMoniker": "D:\\APK\\daty\\settings.gradle.kts",
+              "RelativeDocumentMoniker": "settings.gradle.kts",
+              "ToolTip": "D:\\APK\\daty\\settings.gradle.kts",
+              "RelativeToolTip": "settings.gradle.kts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T18:05:01.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "build.gradle.kts",
+              "DocumentMoniker": "D:\\APK\\daty\\app\\build.gradle.kts",
+              "RelativeDocumentMoniker": "app\\build.gradle.kts",
+              "ToolTip": "D:\\APK\\daty\\app\\build.gradle.kts",
+              "RelativeToolTip": "app\\build.gradle.kts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T17:56:45.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "libs.versions.toml",
+              "DocumentMoniker": "D:\\APK\\daty\\gradle\\libs.versions.toml",
+              "RelativeDocumentMoniker": "gradle\\libs.versions.toml",
+              "ToolTip": "D:\\APK\\daty\\gradle\\libs.versions.toml",
+              "RelativeToolTip": "gradle\\libs.versions.toml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T17:56:42.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\APK\\daty\\app\\src\\main\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "app\\src\\main\\AndroidManifest.xml",
+              "ToolTip": "D:\\APK\\daty\\app\\src\\main\\AndroidManifest.xml",
+              "RelativeToolTip": "app\\src\\main\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-21T17:56:38.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "product_item.xml",
+              "DocumentMoniker": "D:\\APK\\daty\\app\\src\\main\\res\\layout\\product_item.xml",
+              "RelativeDocumentMoniker": "app\\src\\main\\res\\layout\\product_item.xml",
+              "ToolTip": "D:\\APK\\daty\\app\\src\\main\\res\\layout\\product_item.xml",
+              "RelativeToolTip": "app\\src\\main\\res\\layout\\product_item.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-21T17:56:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductAdapter.kt",
+              "DocumentMoniker": "D:\\APK\\daty\\app\\src\\main\\java\\com\\example\\daty\\ProductAdapter.kt",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\daty\\ProductAdapter.kt",
+              "ToolTip": "D:\\APK\\daty\\app\\src\\main\\java\\com\\example\\daty\\ProductAdapter.kt",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\daty\\ProductAdapter.kt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T17:56:19.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.kt",
+              "DocumentMoniker": "D:\\APK\\daty\\app\\src\\main\\java\\com\\example\\daty\\Product.kt",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\daty\\Product.kt",
+              "ToolTip": "D:\\APK\\daty\\app\\src\\main\\java\\com\\example\\daty\\Product.kt",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\daty\\Product.kt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T17:56:09.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "D:\\APK\\daty\\app\\src\\main\\res\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "app\\src\\main\\res\\layout\\activity_main.xml",
+              "ToolTip": "D:\\APK\\daty\\app\\src\\main\\res\\layout\\activity_main.xml",
+              "RelativeToolTip": "app\\src\\main\\res\\layout\\activity_main.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-21T17:10:51.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainActivity.kt",
+              "DocumentMoniker": "D:\\APK\\daty\\app\\src\\main\\java\\com\\example\\daty\\MainActivity.kt",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\daty\\MainActivity.kt",
+              "ToolTip": "D:\\APK\\daty\\app\\src\\main\\java\\com\\example\\daty\\MainActivity.kt",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\daty\\MainActivity.kt",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T17:10:50.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
